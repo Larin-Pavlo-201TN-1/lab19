@@ -1,0 +1,11 @@
+D:\visual studio\prodject\lab_19\lab_19\bin\Debug\lab_19.exe.config
+D:\visual studio\prodject\lab_19\lab_19\bin\Debug\lab_19.exe
+D:\visual studio\prodject\lab_19\lab_19\bin\Debug\lab_19.pdb
+D:\visual studio\prodject\lab_19\lab_19\obj\Debug\lab_19.csproj.AssemblyReference.cache
+D:\visual studio\prodject\lab_19\lab_19\obj\Debug\lab_19.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\prodject\lab_19\lab_19\obj\Debug\lab_19.Form1.resources
+D:\visual studio\prodject\lab_19\lab_19\obj\Debug\lab_19.Properties.Resources.resources
+D:\visual studio\prodject\lab_19\lab_19\obj\Debug\lab_19.csproj.GenerateResource.cache
+D:\visual studio\prodject\lab_19\lab_19\obj\Debug\lab_19.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\lab_19\lab_19\obj\Debug\lab_19.exe
+D:\visual studio\prodject\lab_19\lab_19\obj\Debug\lab_19.pdb
